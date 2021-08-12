@@ -34,3 +34,14 @@ Finally created a CSV for master data (no geographic separation) to prepare a co
 
 # Cohort Layer Cake Analysis
 
+![image](https://user-images.githubusercontent.com/71408369/129269275-726c270b-ace3-407a-8ac2-abe4338b1645.png)
+![image](https://user-images.githubusercontent.com/71408369/129269308-27236bee-185e-45c5-b4b3-fb69df99ef2e.png)
+
+The “created” Datetime column, another column called InvoiceMonth, is created by taking the date for making a cohort layer cake. The conversion date is min (InvoiceMonth).
+Layer Cake chart visualizes the growth of MRR by the cohort of the converted month and helps you understand how efficient and sustainable your business is growing.
+Each cohort grows or shrinks in different ways. For example, Feb, Mar, Apr, May cohorts seem to decrease the MRR (Monthly Recurring Revenue) much more than Jan. Business is not growing on Feb, Mar, Apr, May cohorts.
+The Aug cohort seems to have a big churn rate in the second month. So, we want to compare the Aug cohort with others. The products and services are getting better from Aug onwards, that means business is growing.
+
+For more details check: https://exploratory.io/viz/Poa9grU2DK/Cohort-Layer-Cake-Analysis-lyL5MLo3FZ
+
+
