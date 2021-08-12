@@ -1,5 +1,5 @@
 # Analysis Outline
-In this small project, we are analyzing the data consisting list of marketing & Advertising company customers and list of charges which is converted into multiple cohort analysis chart
+In this small project, we are analyzing the data consisting list of Marketing & Advertising company customers and list of charges which is converted into multiple cohort analysis chart
 A cohort analysis was performed, separated based on what country the customers are from as follows:
 1.	American customers, 
 2.	Australian customers and,
@@ -33,3 +33,4 @@ In general, the company is making an average profit from the top 3 most frequent
 Finally created a CSV for master data (no geographic separation) to prepare a cohort layer cake.
 
 # Cohort Layer Cake Analysis
+
